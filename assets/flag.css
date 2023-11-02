@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+  }
+  .flag {
+      width: 750px;
+      height: 125px;
+      background: #e00034;
+      margin:0 auto;
+      border-top: 125px solid #0097c3;
+      border-bottom: 125px solid #00ae65;
+  }
